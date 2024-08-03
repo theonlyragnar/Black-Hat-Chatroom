@@ -1,0 +1,37 @@
+body {
+  background-color: black;
+  background-image: url(https://wallpaperswide.com/download/anonymous_2-wallpaper-1920x1200.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 100%;
+  width: 100%;
+}
+.maintitle {
+  color: rgb(8, 197, 11);
+  background-color: black;
+  height: 150px;
+  width: 100%;
+}
+.LoginPanelFeildSet {
+  height: 525px;
+  width: 300px;
+  position: -ms-page;
+}
+.UsernameTitle {
+  color: green;
+}
+.PasswordInput {
+  color: green;
+}
+.CapatchaCodeFeild {
+}
+.CapatchaSize {
+  width: 50px;
+  height: 50px;
+}
+.CapatchaInputee {
+  color: white;
+}
+.LoginButton {
+  background-color: black;
+}
